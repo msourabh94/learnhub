@@ -46,9 +46,9 @@
 		destroy-method="close">
 		<beans:property name="driverClassName" value="com.mysql.jdbc.Driver" />
 		<beans:property name="url"
-			value="jdbc:mysql://localhost:3306/quantiphi_db" />
-		<beans:property name="username" value="root" />
-		<beans:property name="password" value="admin" />
+			value="jdbc:mysql://mysql.hostinger.in:3306/u913018898_test" />
+		<beans:property name="username" value="u913018898_teste" />
+		<beans:property name="password" value="Chotu@123" />
 	</beans:bean>
 
 	<!-- Hibernate 3 SessionFactory Bean definition -->
